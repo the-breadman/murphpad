@@ -5,7 +5,7 @@ manifest:
     - name: the-breadman
       url-base: https://github.com/the-breadman
   projects:
-    - name: zmk
+    - name: murphpad
       remote: zmkfirmware
       revision: main
       import: app/west.yml
